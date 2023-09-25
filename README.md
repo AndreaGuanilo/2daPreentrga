@@ -24,4 +24,4 @@ Se usaron las estrategias para armar la página:
 Queda pendiente seguir usando Javascript para añadirle funcionalidad a la página e incorporar otro tipo de ventana emergente. 
 
 * [Enlace al proyecto en Figma](https://www.figma.com/file/vxxm1ZnAdQiBLoX7xYKY6g/Web_Brief_Sprint_5_ES-%7C-Alrededor-de-los-EEUU-%7C-desktop-%2B-mobile?type=design&node-id=0-1&mode=design&t=mc4whlIjyzfUD19H-0) 
-* Enlace del proyecto: (https://andreaguanilo.github.io/web_project_3_esp/)
+* Enlace del proyecto: (https://andreaguanilo.github.io/web_project_around/)
