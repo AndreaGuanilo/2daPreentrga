@@ -1,10 +1,9 @@
 .footer {
-    color: #fff;
+  color: #fff;
+}
+@media screen and (max-width: 576px) {
+  .footer {
+    text-align: center;
+    margin: 0 19px;
   }
-
-  @media screen and (max-width: 576px) {
-    .footer {
-      text-align: center;
-      margin: 0 19px;
-    }
-  }
+}

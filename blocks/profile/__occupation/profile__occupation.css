@@ -1,13 +1,13 @@
 .profile__occupation {
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 1rem 0;
+}
+@media screen and (max-width: 576px) {
+  .profile__occupation{
     font-size: 1.125rem;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    margin: 1rem 0;
+    margin: 0 0 2.25rem;
   }
-  @media screen and (max-width: 576px) {
-    .profile__occupation{
-      font-size: 1.125rem;
-      margin: 0 0 2.25rem;
-    }
-  }
+}
