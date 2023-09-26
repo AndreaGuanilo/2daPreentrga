@@ -4,6 +4,10 @@
   font-weight: 400;
   line-height: normal;
   margin: 1rem 0;
+  max-width: 372px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 @media screen and (max-width: 576px) {
   .profile__occupation{

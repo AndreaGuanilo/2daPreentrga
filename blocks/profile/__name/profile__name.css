@@ -4,7 +4,10 @@
   font-weight: 600;
   line-height: 3rem;
   margin-right: 1.125rem;
-  display: inline;
+  max-width: 380px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 @media screen and (max-width: 992px) {
   .profile__name {
