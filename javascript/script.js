@@ -37,4 +37,3 @@ submitButton.addEventListener("click", function (evt) {
   profilAbout.textContent = inputDescription.value;
   popupToggle();
 });
-formElement.addEventListener('submit', handleProfileFormSubmit); 
