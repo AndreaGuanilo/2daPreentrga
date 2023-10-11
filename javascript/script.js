@@ -1,7 +1,7 @@
 const initialCards = [
   {
     name: "Geonosis",
-    link: "https://lumiere-a.akamaihd.net/v1/images/databank_geonosis_01_169_1d04e086.jpeg?region=0%2C0%2C1560%2C878"
+    link: "http://www.mhscomputergraphics.com/uploads/1/5/1/3/1513764/travel-poster-boonee_orig.jpg"
   },
   {
     name: "Coruscant",
@@ -95,7 +95,7 @@ function handleValidFormAdd() {
     errTitle.classList.add("popup__valid_success");
     return false;
   }
-  if (!inputUrl.value.includes("https")) {
+  if (!inputUrl.value.includes("http")) {
     if (inputTitle.value !== "") {
       errTitle.classList.remove("popup__valid_success");
     }
