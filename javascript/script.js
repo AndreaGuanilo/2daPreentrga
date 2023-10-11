@@ -1,7 +1,7 @@
 const initialCards = [
   {
     name: "Geonosis",
-    link: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7vws4VNmScBSGRgwExBLxBQ5XSHfkpd4bzg&usqp=CAU"
+    link: "https://lumiere-a.akamaihd.net/v1/images/databank_geonosis_01_169_1d04e086.jpeg?region=0%2C0%2C1560%2C878"
   },
   {
     name: "Coruscant",
