@@ -1,6 +1,6 @@
 # :open_file_folder: Tripleten web_project_around
 
-Proyecto de TripleTen. Este corresponde al 6to sprint.
+Proyecto de TripleTen. Este corresponde al 5to sprint.
 
 ## :clipboard: Around the US.
 
